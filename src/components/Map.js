@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+// import SearchBar from './components/SearchBar';
 
 const Map = () => {
     useEffect(() => {

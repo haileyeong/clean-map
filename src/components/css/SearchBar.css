@@ -1,0 +1,16 @@
+#button {
+    background-color: yellowgreen;
+    height: 40px;
+}
+
+#outlined-basic {
+    width: 250px;
+    height: 10px;
+}
+
+#searchBar {
+    /* background-color: blue; */
+    /* opacity: 0.5; */
+    /* margin: 30px 0 0 12px; */
+    padding: 30px;
+}

@@ -2,7 +2,6 @@ import './App.css';
 import Map from './components/Map';
 import SearchBar from './components/SearchBar';
 
-
 function App() {
   return (
     <div style={{ position: 'relative' }}>
